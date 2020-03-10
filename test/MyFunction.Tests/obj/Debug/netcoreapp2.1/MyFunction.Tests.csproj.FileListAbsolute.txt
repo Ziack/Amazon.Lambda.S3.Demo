@@ -1,0 +1,16 @@
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.1/MyFunction.Tests.deps.json
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.1/MyFunction.Tests.runtimeconfig.json
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.1/MyFunction.Tests.runtimeconfig.dev.json
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.1/MyFunction.Tests.dll
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.1/MyFunction.Tests.pdb
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.1/MyFunction.dll
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/bin/Debug/netcoreapp2.1/MyFunction.pdb
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.1/MyFunction.Tests.csprojAssemblyReference.cache
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.1/MyFunction.Tests.AssemblyInfoInputs.cache
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.1/MyFunction.Tests.AssemblyInfo.cs
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.1/MyFunction.Tests.csproj.CopyComplete
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.1/MyFunction.Tests.dll
+/Users/garzia/Documents/Globant/MyFunction/test/MyFunction.Tests/obj/Debug/netcoreapp2.1/MyFunction.Tests.pdb

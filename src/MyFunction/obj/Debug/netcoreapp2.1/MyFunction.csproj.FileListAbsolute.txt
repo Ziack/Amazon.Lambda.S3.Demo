@@ -1,0 +1,10 @@
+/Users/garzia/Documents/Globant/MyFunction/src/MyFunction/bin/Debug/netcoreapp2.1/MyFunction.deps.json
+/Users/garzia/Documents/Globant/MyFunction/src/MyFunction/bin/Debug/netcoreapp2.1/MyFunction.runtimeconfig.json
+/Users/garzia/Documents/Globant/MyFunction/src/MyFunction/bin/Debug/netcoreapp2.1/MyFunction.runtimeconfig.dev.json
+/Users/garzia/Documents/Globant/MyFunction/src/MyFunction/bin/Debug/netcoreapp2.1/MyFunction.dll
+/Users/garzia/Documents/Globant/MyFunction/src/MyFunction/bin/Debug/netcoreapp2.1/MyFunction.pdb
+/Users/garzia/Documents/Globant/MyFunction/src/MyFunction/obj/Debug/netcoreapp2.1/MyFunction.csprojAssemblyReference.cache
+/Users/garzia/Documents/Globant/MyFunction/src/MyFunction/obj/Debug/netcoreapp2.1/MyFunction.AssemblyInfoInputs.cache
+/Users/garzia/Documents/Globant/MyFunction/src/MyFunction/obj/Debug/netcoreapp2.1/MyFunction.AssemblyInfo.cs
+/Users/garzia/Documents/Globant/MyFunction/src/MyFunction/obj/Debug/netcoreapp2.1/MyFunction.dll
+/Users/garzia/Documents/Globant/MyFunction/src/MyFunction/obj/Debug/netcoreapp2.1/MyFunction.pdb

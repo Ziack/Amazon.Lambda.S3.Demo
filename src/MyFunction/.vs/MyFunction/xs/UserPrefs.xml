@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D2D6C202-E940-45B7-B4DB-E7AD9165ABDC}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyFunction.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Function.cs">
+    <Files>
+      <File FileName="../../test/MyFunction.Tests/FunctionTest.cs" Line="59" Column="44" />
+      <File FileName="Function.cs" Line="65" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFunction" expanded="True">
+            <Node name="MyFunction" expanded="True">
+              <Node name="Function.cs" selected="True" />
+            </Node>
+            <Node name="MyFunction.Tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
